@@ -12,7 +12,7 @@ Here are the official links required for submission to the Apple App Store and f
 | Document | Description | URL |
 | :--- | :--- | :--- |
 | **Privacy Policy** | Details how Baseline App handles user data (primarily local storage). | [https://ibury08.github.io/baseline-legal/privacy-policy.html](https://ibury08.github.io/baseline-legal/privacy-policy.html) |
-| **Terms & Conditions** | Outlines the license agreement, subscription terms, and disclaimers for using the app. | [https://ibury08.github.io/baseline-legal/terms-of-use.html](https://ibury08.github.io/[baseline-legal/terms-of-use.html) |
+| **Terms & Conditions** | Outlines the license agreement, subscription terms, and disclaimers for using the app. | [https://ibury08.github.io/baseline-legal/terms-of-use.html](https://ibury08.github.io/baseline-legal/terms-of-use.html) |
 
 ---
 
